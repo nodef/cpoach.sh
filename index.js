@@ -29,7 +29,7 @@ function runHelp() {
     `  --msvc               Shortcut for --compiler msvc.\n` +
     `  --gcc                Shortcut for --compiler gcc.\n` +
     `  --clang              Shortcut for --compiler clang.\n`
-);
+  );
 }
 
 
@@ -53,7 +53,12 @@ function parseArg(opt, argv, k, i) {
 
 // Parse command-line arguments.
 function parseArgs(argv) {
-  const opt = {error: null, help: false, command: 'includes', compiler: 'gcc'};
+  const opt = {
+    error: null,
+    help: false,
+    command: 'includes',
+    compiler: 'gcc'
+  };
   for (let i=2; i<argv.length; i++)
     i = parseArg(opt, argv, argv[i], i);
   return opt;

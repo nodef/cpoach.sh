@@ -1,0 +1,41 @@
+{
+  "name": "cpoach.sh",
+  "version": "0.1.0",
+  "description": "Support tool for for easy-to-use, C/C++ libraries that can be effortlessly installed via NPM.",
+  "keywords": [
+    "c",
+    "c++",
+    "cpoach",
+    "includes",
+    "support",
+    "tool",
+    "library",
+    "npm",
+    "compiler",
+    "flags",
+    "includes",
+    "path",
+    "gcc",
+    "clang",
+    "clang++",
+    "msvc"
+  ],
+  "bin": {
+    "cpoach": "index.js"
+  },
+  "homepage": "https://github.com/nodef/cpoach.sh#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/cpoach.sh/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/cpoach.sh.git"
+  },
+  "license": "MIT",
+  "author": "wolfram77@gmail.com",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  }
+}
