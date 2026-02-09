@@ -1,6 +1,6 @@
 {
   "name": "cpoach.sh",
-  "version": "0.1.1",
+  "version": "0.2.5",
   "description": "Support tool for for easy-to-use, C/C++ libraries that can be effortlessly installed via NPM.",
   "keywords": [
     "c",

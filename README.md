@@ -1,10 +1,10 @@
-![](https://github.com/user-attachments/assets/459f91c1-c313-4f3a-b4e1-14edc4fb358f)
+![](https://github.com/user-attachments/assets/3953aefa-b955-44aa-97b9-27da2c545362)
 
 **cpoach** is a support tool designed to simplify the use of single-file C/C++ libraries. These libraries can be effortlessly installed via `npm`, making it easier to integrate them into your projects without the hassle of *managing build systems* (rather, just like `#include <stdio.h>`), and without including the third-party libraries into the project's version control. This is mainly to facilitate in-class demonstrations and assignments.
 
 The name **cpoach** is a playful nod to the idea of *poaching* awesome C/C++ libraries and making them easily accessible for educational purposes. Many of these libraries are listed in [r-lyeh/single_file_libs](https://github.com/r-lyeh/single_file_libs), [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp), or [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp). I was listening to Eskil Steenberg's talk on [Advanced C](https://www.youtube.com/watch?v=w3_e9vZj7D8), which you should also look into. He also has a [collection of C libraries](https://gamepipeline.org/index.html) that you may want to explore.
 
-Issues or suggestions regarding a specific library should be directed to the original library repository. However, for issues or suggestions related to the **cpoach** project, please [open an issue here](https://github.com/nodef/cpoach.sh/issues).
+Issues or suggestions regarding a specific library should be directed to the original library repository. However, for issues to the **cpoach** project, please [open an issue here](https://github.com/nodef/cpoach.sh/issues).
 
 <br>
 
